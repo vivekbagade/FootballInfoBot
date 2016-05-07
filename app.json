@@ -1,0 +1,6 @@
+{
+  "engines" : {
+    "java" : "7",
+    "tomcat" : "7"
+  }
+}
